@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Viktor Kotlov](https://up.htmlacademy.ru/javascript/26/user/1657329).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Долгов] (https://htmlacademy.ru/profile/id2047221).
 
 ---
 
